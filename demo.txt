@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-sd
-=======
-Thiss
->>>>>>> db3db7ccdf008ede281100e7fcbd791e172d2790
